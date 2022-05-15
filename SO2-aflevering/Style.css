@@ -1,0 +1,109 @@
+.topnav a {
+  background-color: rgb(169, 229, 255);
+  border-width: 2px;
+  border-width: 2px;
+  border-color:#333;
+  margin: auto;
+}
+body {
+
+  color: rgb(0, 0, 0);
+}
+
+body {
+  background-image: url("Images/yes.png");
+  background-color: #cccccc;
+}
+
+.transperant {  
+  background-color: transparent;
+}
+.Hormon {
+  background-image: url(Images/Hormonspiral.jpg);
+}
+.tampon {
+  background-image: url(Images/tampon.jpg);
+}
+.Pessar {
+  background-image: url(Images/Pessar.jpg);
+}
+#t69{
+  height: 366px;
+  width: 550px;
+  background-repeat:no-repeat;
+}
+.main {
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.correct{
+  background-color: rgb(188, 235, 255);
+  color: #bc819d;
+  border-color: transparent;
+  width: auto;
+  height: auto;
+  font-size: 28px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.correct:active{
+  background-color: green;
+}
+
+.topnav a {
+  float: left;
+  color: #333;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: rgb(188, 235, 255);
+  color: black;
+}
+.topnav a.active {
+  background-color: #bc819d;
+  color: white;
+}
+.text {
+  border-width: 5px;
+  border-color: rgb(44, 35, 35);
+}
+.center {
+  margin: auto;
+  width: auto;
+  border: 2px limegreen;
+  padding: 10px;
+}
+.square {
+  text-align: justify;
+}
+.bodytext {
+ line-height: 1.5;
+
+}
+body {
+  width: 800px;
+  margin: auto;
+  border-color: rgb(0, 255, 94);
+}
+.starttt{
+  background-color: rgb(188, 235, 255);
+  color: #bc819d;
+  border-color: transparent;
+  width: auto;
+  height: auto;
+  font-size: 28px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.starttt:active{
+  background-color: red;
+}
+h1{
+  font-family: 'Times New Roman', Times, serif;
+}
